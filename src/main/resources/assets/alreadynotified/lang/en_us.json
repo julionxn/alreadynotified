@@ -1,0 +1,9 @@
+{
+  "key.category.alreadynotified.alreadynotified": "AlreadyNotified Keys",
+  "key.alreadynotified.open_notifications": "Open notifications",
+  "alreadynotified.send_notification_screen.send": "Send",
+  "alreadynotified.send_notification_screen.notification_sent": "Notification %d sent.",
+  "alreadynotified.notifications_screen.close": "Close",
+  "alreadynotified.new_notification_received": "You have received a new notification!",
+  "alreadynotified.clear_notifications": "All notifications have been cleared"
+}
